@@ -59,8 +59,3 @@ node_modules
 Session.vim
 .netrwhist
 *~
-
-
-# Ignore bundled js file
-public/bundle.js
-public/bundle.js.map
